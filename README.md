@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">
-### WhatsUP, i'm Nathan Oliboni 👋</h1>
+WhatsUP, i'm Nathan Oliboni 👋</h1>
 
 ###
 
