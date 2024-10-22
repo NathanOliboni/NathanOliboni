@@ -13,7 +13,7 @@ WhatsUP, i'm Nathan Oliboni 👋</h1>
 
 ###
 
-<p align="left">I'm actually living in Brazil, graduating the second year in Computer Science and i have 20 years.<br><br>- 🌱 I’m currently learning data structures, assembly,  iving deeper into python, DataBases!<br><br>- ✈ One of my dreams is to work in the computing area within aviation!<br><br>- 🤔 I’m looking for help with Data Base ☠ ...<br><br>- 💬 ? Maybe you should contact me to know what ask me about 👻<br><br>- ⚡ Fun fact: i'm a big fan off video games, specially FPS and a really lover off music!<br><br>-📩 Contact me: nathan.oliboni@gmail.com </p>
+<p align="left">I'm actually living in Brazil, graduating the third year in Computer Science and i have 20 years.<br><br>- 🌱 I’m currently learning computer networks, AI, operating systems, computer graphics, diving deeper into python, DataBases!<br><br>- ✈ One of my dreams is to work in the computing area within aviation!<br><br>- 🤔 I’m looking for help with Data Base ☠ ...<br><br>- 💬 ? Maybe you should contact me to know what ask me about 👻<br><br>- ⚡ Fun fact: i'm a big fan off video games, specially FPS and a really lover off music!<br><br>-📩 Contact me: nathan.oliboni@gmail.com </p>
 
 ###
 
